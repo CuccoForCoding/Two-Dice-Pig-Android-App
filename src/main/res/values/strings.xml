@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TwoDicePig2</string>
+    <string name="player_1_total" />
+    <string name="player_2_total" />
+    <string name="current_player" />
+    <string name="turn_total" />
+    <string name="first_dice" />
+    <string name="second_dice" />
+    <string name="roll_dice" />
+    <string name="hold" />
+    <string name="_0" />
+    <string name="p1" />
+    <string name="player_One_total">Player 1 Total:</string>
+    <string name="player_Two_total">Player 2 Total:</string>
+    <string name="current_player2">Current Player:</string>
+    <string name="roll_dice2">ROLL DICE!</string>
+    <string name="hold2">HOLD</string>
+    <string name="turn_total2">Turn Total:</string>
+    <string name="_01">0</string>
+    <string name="_02">0</string>
+    <string name="p1Two">P1</string>
+    <string name="_03">0</string>
+</resources>
